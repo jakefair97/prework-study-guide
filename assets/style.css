@@ -42,12 +42,15 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
+    padding: 15px 20px;
     border: 5px solid silver;
     box-shadow: 5px 10px rgb(99, 99, 236);
+
 }
 
 .form-wrap{
     display: flex;
+
 }
 
 .form-wrap input {
